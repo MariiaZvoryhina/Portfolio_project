@@ -70,8 +70,8 @@ p.mb-5 {
 
 p.text-center {
     font-weight: normal;
-    font-size: 16px;
-    line-height: 30px;
+    font-size: 18px;
+    line-height: 27px;
 }
 
 @media (max-width: 700px) {
