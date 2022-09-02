@@ -95,7 +95,7 @@ p.text-center {
     border-radius: 14px;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 900px) {
     .hero {
         padding: 80px 20px;
 
@@ -117,5 +117,14 @@ p.text-center {
     .desciption {
         padding: 0;
         text-align: center;
+    }
+
+    .about-section {
+        text-align: center;
+        padding: 0;
+    }
+
+    .img-fluid {
+        margin-top: 20px;
     }
 }
