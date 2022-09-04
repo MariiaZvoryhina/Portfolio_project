@@ -82,6 +82,7 @@ p.text-center {
 
 .content-container {
     padding: 160px 20px;
+    text-align: center;
 }
 
 .content-container h1 {
@@ -89,6 +90,7 @@ p.text-center {
     font-size: 64px;
     line-height: 80px;
     font-weight: 700;
+
 }
 
 .photo {
