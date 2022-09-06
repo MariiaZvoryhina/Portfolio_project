@@ -160,4 +160,16 @@ p.text-center {
     .img-fluid {
         margin-top: 20px;
     }
+
+
+
+    nav li {
+        margin: 5px;
+        font-size: 14px;
+        font-weight: bold;
+    }
+
+    img.logo.img-fluid {
+        width: 50%;
+    }
 }
