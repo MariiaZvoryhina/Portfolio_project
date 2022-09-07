@@ -177,7 +177,7 @@ footer .email-link:hover {
     color: var(--branding-color);
 }
 
-footer.social-links a:hover {
+footer .social-links a:hover {
     color: white;
     background: var(--branding-color);
 }
